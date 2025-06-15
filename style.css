@@ -1,0 +1,41 @@
+table{
+    color: #fff;
+    text-align: center;
+    border-collapse: collapse;
+    font: normal 3em Arial, fantasy, sans-serif;
+}
+
+tr{
+    height: 16.02vh;
+    background-color: lightpink;
+}
+
+td{
+    width: 25vw;
+    border: 1px solid hotpink;
+}
+
+#inputBox{
+    text-align: right;
+    width: 100%;
+    font-size: 2em;
+    border: 0 solid hotpink;
+    background-color: rgb(247, 216, 233);
+    color: #fff;
+}
+
+.digitButton{
+    background-color: rgb(150, 121, 150);
+}
+
+.equalsButton{
+    background-color: hotpink;
+}
+
+.ACButton{
+    background-color: rgb(207, 42, 207);
+}
+
+.operatorButton{
+    background-color: rgb(226, 118, 118);
+}
